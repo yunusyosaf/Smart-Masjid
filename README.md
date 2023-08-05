@@ -1,7 +1,7 @@
 # Smart-Masjid
 "Embodying architectural brilliance, our smart masjid harmoniously blends modern technology with timeless Islamic design. Intelligent energy management, automated prayer timings, and seamless connectivity empower worshippers in a serene and spiritually uplifting environment."
 
-# Abstract
+# Abstract 
 
 "The primary objectives of this project are to design and develop an experimental model for a Smart Masjid that uses the principle of IoT. To apply the principle of IoT to such a system we can implement sensors, actuators, modules, and data analysis techniques, the Smart Masjid system automates routine tasks, optimizes resource utilization, and provides real-time information to worshippers. The main strategy of this study area focuses on Energy Conservation, Energy Management, Prayer Time Management, Event Management, and enhancing user experience in Smart Masjid.
 
